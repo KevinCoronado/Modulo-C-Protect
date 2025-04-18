@@ -54,9 +54,12 @@ Se desarrolló un criptosistema personalizado llamado **Kiwi**, el cual combina 
   1. **Permutación** de bits
   2. **Rotación** de bloques
   3. **Operación XOR** con clave
+
  
   **📸 Diagrama del criptosistema:**
   ![image](https://github.com/user-attachments/assets/af851d46-ffeb-4080-9a63-ac7fbbae19c6)
+
+
 
   **📸 Diagrama de la creacion de llaves:**
   ![image](https://github.com/user-attachments/assets/2e9756b9-e8cf-4a33-bed9-233508e21a95)
@@ -71,36 +74,5 @@ Se desarrolló un criptosistema personalizado llamado **Kiwi**, el cual combina 
 - Aproximadamente **3.4 × 10³⁸** (340 sextillones)
 
 **📸 Ejemplo visual del criptosistema en acción:**
-`![Criptosistema Kiwi](ruta/a/la/imagen.png)`
-
----
-
-## 🧪 Pruebas y Validaciones
-
-Cada módulo fue probado de forma individual y en conjunto para garantizar el correcto funcionamiento y la seguridad de la solución. Las pruebas incluyeron:
-
-- Simulación de accesos desde IPs no autorizadas
-- Automatización de bots
-- Intentos de robo de sesión
-- Cifrado y descifrado de datos
-
-**📸 Resultados de las pruebas:**
-`![Pruebas](ruta/a/la/imagen.png)`
-
----
-
-## 📁 Estructura del Proyecto
-
-```bash
-/mi_modulo_ciberseguridad/
-├── ip_blocker.php
-├── captcha.php
-├── session_control.php
-├── kiwi_cipher/
-│   ├── encrypt.php
-│   └── decrypt.php
-├── assets/
-│   └── imagenes/
-├── index.php
-└── README.md
+![image](https://github.com/user-attachments/assets/897476d7-85cc-43d7-9c55-d3825ab715e2)
 
