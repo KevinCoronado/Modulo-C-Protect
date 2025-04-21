@@ -57,7 +57,8 @@ Se desarrolló un criptosistema personalizado llamado **Kiwi**, el cual combina 
 
  
   **📸 Diagrama del criptosistema:**  
-  ![image](https://github.com/user-attachments/assets/af851d46-ffeb-4080-9a63-ac7fbbae19c6)
+  ![image](https://github.com/user-attachments/assets/6de382aa-ee70-4208-9eee-0b6326deabdc)
+
 
 
 
