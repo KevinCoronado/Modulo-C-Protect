@@ -13,7 +13,8 @@ Este sistema permite el acceso únicamente a direcciones IP dentro de una subred
 > Este mecanismo es útil para entornos privados o redes internas donde se desea limitar el acceso a ciertos rangos IP.
 
 **📸 Ejemplo visual del bloqueador de IPs:**  
-![image](https://github.com/user-attachments/assets/4a7d3938-6d80-46f4-bb2c-5128ace239b8)
+<img width="1010" height="445" alt="image" src="https://github.com/user-attachments/assets/8bcaf89c-96e4-4734-ab4f-1cddecb32b91" />
+
 
 
 ---
@@ -25,7 +26,9 @@ Para evitar interacciones automatizadas, se implementó un sistema CAPTCHA liger
 > Ideal para formularios de login, registro u otras operaciones sensibles donde se desee evitar ataques de fuerza bruta automatizados.
 
 **📸 Vista del sistema CAPTCHA:**  
-![image](https://github.com/user-attachments/assets/8abe380d-5c67-41f1-b9b0-dec7ecf6c9b7)
+<img width="476" height="364" alt="image" src="https://github.com/user-attachments/assets/c1b0009b-63f8-4ab6-b618-a697b3bb5a04" />
+
+
 
 
 ---
@@ -37,7 +40,8 @@ El sistema controla las sesiones activas y les asigna una duración limitada. Un
 > Esto incrementa la seguridad en aplicaciones donde el abandono de sesiones abiertas puede comprometer la información del usuario.
 
 **📸 Vista de la gestión de sesiones:**  
-![image](https://github.com/user-attachments/assets/2f305247-4983-4f3c-9779-7eedb0bffa3f)
+<img width="513" height="359" alt="image" src="https://github.com/user-attachments/assets/08cf6c03-353e-44ce-b602-47519e18bea3" />
+
 
 
 ---
@@ -57,13 +61,15 @@ Se desarrolló un criptosistema personalizado llamado **Kiwi**, el cual combina 
 
  
   **📸 Diagrama del criptosistema:**  
-  ![image](https://github.com/user-attachments/assets/6de382aa-ee70-4208-9eee-0b6326deabdc)
+  <img width="524" height="812" alt="image" src="https://github.com/user-attachments/assets/dd4a6e80-3f0c-4160-8cd3-6eb3e377470d" />
+
 
 
 
 
   **📸 Diagrama de la creacion de llaves:**  
-  ![image](https://github.com/user-attachments/assets/2e9756b9-e8cf-4a33-bed9-233508e21a95)
+  <img width="822" height="803" alt="image" src="https://github.com/user-attachments/assets/6dc14ef4-2192-4315-978c-f3bb58b219d0" />
+
 
 
 
@@ -75,5 +81,9 @@ Se desarrolló un criptosistema personalizado llamado **Kiwi**, el cual combina 
 - Aproximadamente **3.4 × 10³⁸** (340 sextillones)
 
 **📸 Ejemplo visual del criptosistema en acción:**  
-![image](https://github.com/user-attachments/assets/897476d7-85cc-43d7-9c55-d3825ab715e2)
+<img width="1166" height="500" alt="image" src="https://github.com/user-attachments/assets/d8c55ba7-bacc-420c-b856-eb61d4978255" />
+
+<img width="1209" height="445" alt="image" src="https://github.com/user-attachments/assets/b8f25044-230a-4eee-a905-54c28bf154c4" />
+
+
 
